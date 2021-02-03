@@ -1,0 +1,23 @@
+memory layout
+주소가 높은 방향 <------------------------------------->주소가 낮은 방향
+ stack - free - heap - bss segment - data segment - text segment
+
+ stack(크기 변함) -> 지역변수가 있는 곳
+ 컴파일러가 프로그램 실행 시 사용될 메모리 크기 예측이 가능
+ 속도가 빠름
+
+ heap(크기 변함) -> 컴파일러가 사용될 메모리 크기 예측을 할 수 없는 곳
+
+ free -> stack 과 heap 이 free를 통해 늘어났다 줄어들었다 변함
+
+ bss segment(크기 고정) -> 초기화되지 않은 전역/정적 변수들
+
+ data segment(크기 고정) -> 초기화된 전역/정적 변수들
+read wrtie data / read only data로 나뉘어져있음
+
+ text segment(크기 고정) -> 프로그램 코드
+읽기 전용으로 막아놓음(프로그램이 실행되는 도중에 메모리가 변하는 상황을 막기 위함)
+
+char arr[]="hello world"; -> arr[]의 값은 변경 가능 -> 지역변수면 stack, 전역변수면 data segment
+
+char* str="hello, world"; -> 문자열이 고정되있으므로 data segment의 읽기 전용 메모리로 들어감

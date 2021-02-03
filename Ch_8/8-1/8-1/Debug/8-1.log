@@ -1,0 +1,2 @@
+﻿  8-1.cpp
+C:\Users\USER\Desktop\C\Ch_8\8-1\8-1\8-1.cpp(8,14): error C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.

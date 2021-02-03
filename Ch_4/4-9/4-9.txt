@@ -1,0 +1,7 @@
+printf에서 부동소수점이 들어오면 float를 double로 변환(4byte -> 8byte)
+
+float n1 = 3.14; (4byte)
+double n2 = 1.234;(8byte)
+int n3 = 1024;(4byte)
+
+printf("%d %d %d\n", n1, n2, n3); 에서 %d(4byte)를 세 번 읽고 끝남(변수 총합 20byte) -> 오류 발생

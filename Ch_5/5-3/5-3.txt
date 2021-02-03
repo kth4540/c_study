@@ -1,0 +1,3 @@
+이항 연산자(Binary operator) : ex) 3-2 -> 피연산자 2개( 3 2) ->값(value) = 1
+단항 연산자(unary operator) : ex) -16 -> 피연산자 1개(16) -> 값(value) = -16
+복합 : ex) -(12-11)

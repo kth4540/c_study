@@ -1,0 +1,4 @@
+﻿  12-13.cpp
+C:\Users\USER\Desktop\C\12-13\12-13\12-13.cpp(10,6): warning C4101: 'arr': unreferenced local variable
+C:\Users\USER\Desktop\C\12-13\12-13\12-13.cpp(7,8): warning C4101: 'x': unreferenced local variable
+  12-13.vcxproj -> C:\Users\USER\Desktop\C\12-13\Debug\12-13.exe

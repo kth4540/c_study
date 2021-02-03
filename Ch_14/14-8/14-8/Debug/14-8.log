@@ -1,0 +1,5 @@
+﻿  14-8.cpp
+14-8.obj : error LNK2019: unresolved external symbol "void __cdecl show_result(struct name_count const *)" (?show_result@@YAXPBUname_count@@@Z) referenced in function _main
+    Hint on symbols that are defined and could potentially match:
+      "void __cdecl show_result(struct name_count *)" (?show_result@@YAXPAUname_count@@@Z)
+C:\Users\USER\Desktop\C\14-8\Debug\14-8.exe : fatal error LNK1120: 1 unresolved externals

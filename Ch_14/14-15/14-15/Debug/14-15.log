@@ -1,0 +1,7 @@
+﻿  14-15.c
+C:\Users\USER\Desktop\C\14-15\14-15\14-15.c(22,17): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\USER\Desktop\C\14-15\14-15\14-15.c(22,17): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\USER\Desktop\C\14-15\14-15\14-15.c(28,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'double'
+C:\Users\USER\Desktop\C\14-15\14-15\14-15.c(33,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'double'
+C:\Users\USER\Desktop\C\14-15\14-15\14-15.c(45,17): warning C4101: 'uni2': unreferenced local variable
+  14-15.vcxproj -> C:\Users\USER\Desktop\C\14-15\Debug\14-15.exe

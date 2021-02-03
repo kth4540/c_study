@@ -1,0 +1,4 @@
+﻿  14-2.c
+C:\Users\USER\Desktop\C\14-2\14-2\14-2.c(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\USER\Desktop\C\14-2\14-2\14-2.c(29,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  14-2.vcxproj -> C:\Users\USER\Desktop\C\14-2\Debug\14-2.exe

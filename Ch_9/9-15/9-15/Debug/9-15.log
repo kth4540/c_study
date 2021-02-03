@@ -1,0 +1,4 @@
+﻿  9-15.c
+C:\Users\USER\Desktop\C\9-15\9-15\9-15.c(8,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\USER\Desktop\C\9-15\9-15\9-15.c(10,1): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+  9-15.vcxproj -> C:\Users\USER\Desktop\C\9-15\Debug\9-15.exe

@@ -1,0 +1,6 @@
+const int angel = 1004
+
+-> const = 한정자
+-> int = 자료형
+-> angel = 변수
+-> 1004 = 리터럴 상수

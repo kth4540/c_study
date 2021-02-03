@@ -1,0 +1,4 @@
+﻿  4-7.cpp
+C:\Users\USER\Desktop\C\Ch_4\4-7\4-7\4-7.cpp(35,17): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\USER\Desktop\C\Ch_4\4-7\4-7\4-7.cpp(35,17): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  4-7.vcxproj -> C:\Users\USER\Desktop\C\Ch_4\4-7\Debug\4-7.exe

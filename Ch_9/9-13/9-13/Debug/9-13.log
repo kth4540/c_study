@@ -1,0 +1,6 @@
+﻿  9-13.c
+C:\Users\USER\Desktop\C\9-13\9-13\9-13.c(17,9): warning C4778: 'printf' : unterminated format string '%\n'
+C:\Users\USER\Desktop\C\9-13\9-13\9-13.c(19,11): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\USER\Desktop\C\9-13\9-13\9-13.c(25,9): warning C4778: 'printf' : unterminated format string '%\n'
+C:\Users\USER\Desktop\C\9-13\9-13\9-13.c(30,9): warning C4778: 'printf' : unterminated format string '%\n'
+  9-13.vcxproj -> C:\Users\USER\Desktop\C\9-13\Debug\9-13.exe

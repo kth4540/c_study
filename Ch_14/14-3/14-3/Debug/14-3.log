@@ -1,0 +1,59 @@
+﻿  14-3.cpp
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(17,9): warning C4477: 'printf' : format string '%zd' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(17,9): message : consider using '%lld' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(17,9): message : consider using '%I64d' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(18,9): warning C4477: 'printf' : format string '%zd' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(18,9): message : consider using '%lld' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(18,9): message : consider using '%I64d' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(19,9): warning C4477: 'printf' : format string '%zd' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(19,9): message : consider using '%lld' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(19,9): message : consider using '%I64d' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(20,9): warning C4477: 'printf' : format string '%zd' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(20,9): message : consider using '%lld' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(20,9): message : consider using '%I64d' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(23,9): warning C4477: 'printf' : format string '%zd' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(23,9): message : consider using '%lld' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(23,9): message : consider using '%I64d' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(24,9): warning C4477: 'printf' : format string '%zd' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(24,9): message : consider using '%lld' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(24,9): message : consider using '%I64d' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(25,9): warning C4477: 'printf' : format string '%zd' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(25,9): message : consider using '%lld' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(25,9): message : consider using '%I64d' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(26,9): warning C4477: 'printf' : format string '%zd' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(26,9): message : consider using '%lld' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(26,9): message : consider using '%I64d' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(57,9): warning C4477: 'printf' : format string '%zd' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(57,9): message : consider using '%lld' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(57,9): message : consider using '%I64d' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(58,9): warning C4477: 'printf' : format string '%zd' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(58,9): message : consider using '%lld' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(58,9): message : consider using '%I64d' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(59,9): warning C4477: 'printf' : format string '%zd' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(59,9): message : consider using '%lld' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(59,9): message : consider using '%I64d' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(60,9): warning C4477: 'printf' : format string '%zd' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(60,9): message : consider using '%lld' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(60,9): message : consider using '%I64d' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(63,9): warning C4477: 'printf' : format string '%zd' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(63,9): message : consider using '%lld' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(63,9): message : consider using '%I64d' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(64,9): warning C4477: 'printf' : format string '%zd' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(64,9): message : consider using '%lld' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(64,9): message : consider using '%I64d' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(65,9): warning C4477: 'printf' : format string '%zd' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(65,9): message : consider using '%lld' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(65,9): message : consider using '%I64d' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(66,9): warning C4477: 'printf' : format string '%zd' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(66,9): message : consider using '%lld' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(66,9): message : consider using '%I64d' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(77,9): warning C4477: 'printf' : format string '%zd' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(77,9): message : consider using '%lld' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(77,9): message : consider using '%I64d' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(78,9): warning C4477: 'printf' : format string '%zd' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(78,9): message : consider using '%lld' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(78,9): message : consider using '%I64d' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(79,9): warning C4477: 'printf' : format string '%zd' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(79,9): message : consider using '%lld' in the format string
+C:\Users\USER\Desktop\C\14-3\14-3\14-3.cpp(79,9): message : consider using '%I64d' in the format string
+  14-3.vcxproj -> C:\Users\USER\Desktop\C\14-3\Debug\14-3.exe

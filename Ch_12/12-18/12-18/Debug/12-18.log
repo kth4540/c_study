@@ -1,0 +1,4 @@
+﻿  12-18.c
+C:\Users\USER\Desktop\C\12-18\12-18\12-18.c(1,8): error C2061: syntax error: identifier '_CRT_SECURE_NO_WARNINGS'
+C:\Users\USER\Desktop\C\12-18\12-18\12-18.c(1,8): error C2059: syntax error: ';'
+C:\Users\USER\Desktop\C\12-18\12-18\12-18.c(28,12): warning C4114: same type qualifier used more than once

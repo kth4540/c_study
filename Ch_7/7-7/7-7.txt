@@ -1,0 +1,7 @@
+Sequence point 를 만나면 그 전의 expression 값이 계산됨
+
+ex) if (x++ > 0 && x + y == 4)
+
+&& , || 는 sequence point
+x++ > 0 후에 &&가 있으므로 x++를 먼저 계산하고 그 후에 x+y==4를 계산
+따라서 x는 2이므로 x+y==4는 true임 

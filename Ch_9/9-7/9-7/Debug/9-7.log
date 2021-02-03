@@ -1,0 +1,4 @@
+﻿  9-7.cpp
+C:\Users\USER\Desktop\C\9-7\9-7\9-7.cpp(16,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+C:\Users\USER\Desktop\C\9-7\9-7\9-7.cpp(20,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+  9-7.vcxproj -> C:\Users\USER\Desktop\C\9-7\Debug\9-7.exe

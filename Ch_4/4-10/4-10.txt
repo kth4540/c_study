@@ -1,0 +1,20 @@
+%c : 입력을 한 글자로 해석
+%d, %i : 입력을 부호 있는 10진 정수로 해석
+%e, %f, %g, %a : 입력을 부동 소수점 수로 해석
+%o : 입력을 8진 정수로 해석
+%p : 입력을 포인터로 해석
+%s : 입력을 문자열로 해석
+%u : 입력을 부호 없는 10진 정수로 해석
+%x : 입력을 부호 있는 16진 정수로 해석
+
+* : 무시 -> int i;
+	scanf("%*d %*d %d", &i);
+	printf("Your third input = %d", i); 에서 입력은 3개, 변수 대입은 마지막 3번째만
+숫자 : 입력받을 최대 넓이
+hh : 정수를 signed char 혹은 unsigned char로 읽음
+ll :  정수를 long long 혹은 unsigned long long으로 읽음
+h,l,L : short, long
+j : intmax_t 또는 uintmax_t 자료형
+z : sizeof 연산자의 반환값의 자료형
+t : 두 포인터의 차이
+

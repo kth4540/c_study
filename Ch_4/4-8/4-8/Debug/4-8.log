@@ -1,0 +1,8 @@
+﻿  4-8.cpp
+C:\Users\USER\Desktop\C\Ch_4\4-8\4-8\4-8.cpp(29,35): warning C4307: '+': signed integral constant overflow
+C:\Users\USER\Desktop\C\Ch_4\4-8\4-8\4-8.cpp(29,48): warning C4307: '+': signed integral constant overflow
+C:\Users\USER\Desktop\C\Ch_4\4-8\4-8\4-8.cpp(29,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 2 has type 'int'
+C:\Users\USER\Desktop\C\Ch_4\4-8\4-8\4-8.cpp(29,9): message : consider using '%d' in the format string
+C:\Users\USER\Desktop\C\Ch_4\4-8\4-8\4-8.cpp(29,9): message : consider using '%Id' in the format string
+C:\Users\USER\Desktop\C\Ch_4\4-8\4-8\4-8.cpp(29,9): message : consider using '%I32d' in the format string
+  4-8.vcxproj -> C:\Users\USER\Desktop\C\Ch_4\4-8\Debug\4-8.exe

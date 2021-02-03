@@ -1,0 +1,5 @@
+﻿  14-19.c
+C:\Users\USER\Desktop\C\14-19\14-19\14-19.c(33,20): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char'
+C:\Users\USER\Desktop\C\14-19\14-19\14-19.c(33,17): warning C4024: 'fputs': different types for formal and actual parameter 1
+C:\Users\USER\Desktop\C\14-19\14-19\14-19.c(14,16): warning C4101: 'color': unreferenced local variable
+  14-19.vcxproj -> C:\Users\USER\Desktop\C\14-19\Debug\14-19.exe

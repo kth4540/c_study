@@ -1,0 +1,5 @@
+﻿  14-26.cpp
+C:\Users\USER\Desktop\C\14-26\14-26\14-26.cpp(34,16): warning C4473: 'scanf' : not enough arguments passed for format string
+C:\Users\USER\Desktop\C\14-26\14-26\14-26.cpp(34,16): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\USER\Desktop\C\14-26\14-26\14-26.cpp(34,16): message : the missing variadic argument 2 is required by format string '%[^\n]'
+  14-26.vcxproj -> C:\Users\USER\Desktop\C\14-26\Debug\14-26.exe

@@ -1,0 +1,10 @@
+솔루션 -> 프로젝트 여러개 추가 가능
+solution -> Add -> New project
+
+원하는 프로젝트 설정 유지해서 새 프로젝트 생성
+원하는 프로젝트 클릭 -> project -> export template -> 프로젝트 추가에서 export 한 template 찾아서 선택
+
+프로젝트가 여러개 있을 때 진하게 칠해진 프로젝트 실행
+바꾸려면 원하는 프로젝트 우클릭 -> set as startup project
+
+폰트설정 : Tools -> option -> environment -> Tools and colors

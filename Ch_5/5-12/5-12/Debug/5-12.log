@@ -1,0 +1,3 @@
+﻿  5-12.cpp
+C:\Users\USER\Desktop\C\Ch_5\5-12\5-12\5-12.cpp(13,7): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  5-12.vcxproj -> C:\Users\USER\Desktop\C\Ch_5\5-12\Debug\5-12.exe

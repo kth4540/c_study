@@ -1,0 +1,6 @@
+﻿  14-4.c
+C:\Users\USER\Desktop\C\14-4\14-4\14-4.c(16,14): warning C4013: 'strchr' undefined; assuming extern returning int
+C:\Users\USER\Desktop\C\14-4\14-4\14-4.c(16,24): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\USER\Desktop\C\14-4\14-4\14-4.c(39,38): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+C:\Users\USER\Desktop\C\14-4\14-4\14-4.c(39,50): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+  14-4.vcxproj -> C:\Users\USER\Desktop\C\14-4\Debug\14-4.exe
